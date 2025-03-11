@@ -1217,6 +1217,11 @@
                 <artifactId>java-diff-utils</artifactId>
                 <version>${java-diff-utils.version}</version>
             </dependency>
+            <dependency>
+                <groupId>com.puppycrawl.tools</groupId>
+                <artifactId>checkstyle</artifactId>
+                <version>10.21.4</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
